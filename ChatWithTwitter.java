@@ -14,7 +14,7 @@ public class ChatWithTwitter {
 	private final int RESPONSE_MAX_LENGTH=30; //応答文の最大文字数
 	private final String SEARCH_WORD_WHEN_NOT_FOUND="何言ってる OR 何の話"; //応答が見つからない時にこのワードで検索
 	
-	private final String SYSTEM_NAME="エガワ";
+	private final String SYSTEM_NAME="システム";
 	private final String USER_NAME="ユーザ";
 
     public static void main(String[] args) {
